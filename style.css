@@ -1,0 +1,24 @@
+* {
+  font-family: arial;
+}
+body{
+  background: white;
+  color: black;
+}
+
+#intro{
+background: #fafafa !important;
+color: black;
+margin:-10px;
+padding: 10px; 
+border: 5px solid;
+}
+img {
+  border-radius:  5%;
+  border:2px solid;
+}
+hr {
+border: 2px solid;
+}
+
+
